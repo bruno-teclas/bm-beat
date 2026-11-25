@@ -2,7 +2,7 @@
 <h1 align="center">BM Beat</h1>
 <p align="center">Player de VS / multitracks para palco — lê projetos do <b>REAPER (.RPP)</b>. macOS e Windows.</p>
 
-<p align="center"><a href="../../releases/latest"><b>⬇ Baixar a versão mais recente</b></a> · <a href="https://www.paypal.com/donate/?hosted_button_id=TWSXKS6388KMJ"><b>❤ Apoiar pelo PayPal</b></a></p>
+<p align="center"><a href="../../releases/latest"><b>⬇ Baixar a versão mais recente</b></a> · <a href="docs/BM-Beat-Manual.pdf"><b>📖 Manual (PDF)</b></a> · <a href="https://www.paypal.com/donate/?hosted_button_id=TWSXKS6388KMJ"><b>❤ Apoiar pelo PayPal</b></a></p>
 
 ![BM Beat](assets/tela-palco.png)
 
@@ -18,6 +18,10 @@ Na página [Releases](../../releases/latest):
 
 **macOS:** descompacte e arraste o **BM Beat** para Aplicativos. Na primeira vez, clique com o botão direito no app → **Abrir** → **Abrir** (o app ainda não é assinado pela Apple).
 **Windows:** descompacte a pasta e abra **BM Beat.exe**. Se o SmartScreen avisar, clique em **Mais informações → Executar assim mesmo**.
+
+## Manual
+
+O **[Manual do usuário em PDF](docs/BM-Beat-Manual.pdf)** explica todas as funções, passo a passo e com imagens: instalação, preparo do projeto no REAPER, tela Palco, armar e saltar, mixer e famílias, cortes e mute finais, letras, vídeos, partituras, MIDI, timecode, rede, configurações, atalhos e solução de problemas.
 
 ## Recursos
 
