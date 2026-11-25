@@ -2,7 +2,7 @@
 <h1 align="center">BM Beat</h1>
 <p align="center">Player de VS / multitracks para palco — lê projetos do <b>REAPER (.RPP)</b>. macOS e Windows.</p>
 
-<p align="center"><a href="../../releases/latest"><b>⬇ Baixar a versão mais recente</b></a></p>
+<p align="center"><a href="../../releases/latest"><b>⬇ Baixar a versão mais recente</b></a> · <a href="https://www.paypal.com/donate/?hosted_button_id=TWSXKS6388KMJ"><b>❤ Apoiar pelo PayPal</b></a></p>
 
 ![BM Beat](assets/tela-palco.png)
 
@@ -31,4 +31,4 @@ Na página [Releases](../../releases/latest):
 
 ## Apoie o projeto
 
-Se o BM Beat ajuda no seu ministério ou nos seus shows, considere apoiar pelo botão **Sponsor ❤** no topo desta página.
+Se o BM Beat ajuda no seu ministério ou nos seus shows, considere apoiar pelo botão **Sponsor ❤** no topo desta página ou direto pelo [PayPal](https://www.paypal.com/donate/?hosted_button_id=TWSXKS6388KMJ).
