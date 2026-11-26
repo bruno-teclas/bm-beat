@@ -23,6 +23,13 @@ Na página [Releases](../../releases/latest):
 
 O **[Manual do usuário em PDF](docs/BM-Beat-Manual.pdf)** explica todas as funções, passo a passo e com imagens: instalação, preparo do projeto no REAPER, tela Palco, armar e saltar, mixer e famílias, cortes e mute finais, letras, vídeos, partituras, MIDI, timecode, rede, configurações, atalhos e solução de problemas.
 
+## Novidades da 0.9.0
+
+- **Salvamento automático** a cada alteração (selo "✓ salvo" na barra de edição).
+- **Legendas .srt** geradas das letras na pasta **Legendas** de cada projeto (projeto inteiro + uma por música).
+- **Tela de início do show**: "Em instantes" com cronômetro, imagem ou vídeo — só durante a preparação, sai no primeiro play.
+- **Cronômetro na tela da letra**, discreto, liga/desliga e escolha do canto.
+
 ## Novidades da 0.8.0
 
 - **Vídeo matriz**: vídeo em loop ou imagem fixa que entra no telão quando nenhum vídeo toca — o telão nunca fica preto.
