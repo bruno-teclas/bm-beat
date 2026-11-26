@@ -23,6 +23,13 @@ Na página [Releases](../../releases/latest):
 
 O **[Manual do usuário em PDF](docs/BM-Beat-Manual.pdf)** explica todas as funções, passo a passo e com imagens: instalação, preparo do projeto no REAPER, tela Palco, armar e saltar, mixer e famílias, cortes e mute finais, letras, vídeos, partituras, MIDI, timecode, rede, configurações, atalhos e solução de problemas.
 
+## Novidades da 0.10.0
+
+- **Visual mais profissional**: barra de módulos com ícones de linha (Palco, Letras, Vídeos, Partituras · MIDI, Timecode, Rede).
+- **Seleção atual em três linhas** — Região, Música e Parte —, sem brilho: tocando = preenchido na cor, armado = tracejado âmbar.
+- **Ajuda → Como organizar no REAPER** dentro do app.
+- Lateral simplificada: **Projeto** e **Biblioteca** (a Biblioteca mostra músicas, partes e regiões de cada projeto).
+
 ## Novidades da 0.9.0
 
 - **Salvamento automático** a cada alteração (selo "✓ salvo" na barra de edição).
@@ -39,11 +46,21 @@ O **[Manual do usuário em PDF](docs/BM-Beat-Manual.pdf)** explica todas as fun�
 - **Família sem saída ("Nenhuma")**: cada trilha escolhe a própria saída.
 - **Barra das abas Letras/Vídeos/Partituras** com zoom, rolagem e "seguir" a agulha.
 
+## Como organizar no REAPER
+
+| No REAPER | No BM Beat |
+|---|---|
+| **Região** cobrindo cada música | Bloco da música (linha *Região*) |
+| **Marca roxa/lilás** com o nome da música | Música (linha *Música*) |
+| **Marca de cor normal** (Intro, Verso, Refrão…) | Parte (linha *Parte*, teclas 1–9) |
+| **Andamento e compasso** | BPM de cada música e parte, automático |
+| **Nome da trilha** (Kick, Bass, Click, BV…) | Família automática (Bateria, Baixo, Click, Backs…) |
+
 ## Recursos
 
 - Abre projetos do REAPER: trilhas, marcas, regiões, tempo e cores.
 - Marcas roxas = músicas; marcas coloridas = partes (verso, refrão, solo…). Armar parte/música e saltar no fim da parte, do marcador ou do compasso.
-- Playlist com projetos expansíveis e **ordem personalizada** de músicas e partes, sem mexer no projeto.
+- **Ordem personalizada** de músicas e partes, sem mexer no projeto.
 - Famílias (bateria, baixo, guia, backs, teclados, sopro…) com mute global, saídas de áudio por família (mono/estéreo).
 - Velocidade sem mudar o tom e mudança de tom sem afetar bateria, percussão, click e guia.
 - Mixer, cortes e **mute finais**, cache de abertura rápida.
