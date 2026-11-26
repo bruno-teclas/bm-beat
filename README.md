@@ -23,6 +23,15 @@ Na página [Releases](../../releases/latest):
 
 O **[Manual do usuário em PDF](docs/BM-Beat-Manual.pdf)** explica todas as funções, passo a passo e com imagens: instalação, preparo do projeto no REAPER, tela Palco, armar e saltar, mixer e famílias, cortes e mute finais, letras, vídeos, partituras, MIDI, timecode, rede, configurações, atalhos e solução de problemas.
 
+## Novidades da 0.8.0
+
+- **Vídeo matriz**: vídeo em loop ou imagem fixa que entra no telão quando nenhum vídeo toca — o telão nunca fica preto.
+- **Cronômetro do show** na aba Letras (regressivo ou progressivo, +1/+5 min), também no monitor de palco.
+- **Salvar no formato do REAPER (.RPP)** com cortes, marcas, regiões, andamento, velocidade e tom.
+- **✨ Reconhecer famílias** pelo nome dos stems, com um clique.
+- **Família sem saída ("Nenhuma")**: cada trilha escolhe a própria saída.
+- **Barra das abas Letras/Vídeos/Partituras** com zoom, rolagem e "seguir" a agulha.
+
 ## Recursos
 
 - Abre projetos do REAPER: trilhas, marcas, regiões, tempo e cores.
@@ -31,7 +40,8 @@ O **[Manual do usuário em PDF](docs/BM-Beat-Manual.pdf)** explica todas as fun�
 - Famílias (bateria, baixo, guia, backs, teclados, sopro…) com mute global, saídas de áudio por família (mono/estéreo).
 - Velocidade sem mudar o tom e mudança de tom sem afetar bateria, percussão, click e guia.
 - Mixer, cortes e **mute finais**, cache de abertura rápida.
-- Letras e vídeos para telões em outro monitor, partituras em PDF com página sincronizada, controle pela rede (celular/tablet), MIDI, timecode LTC/MTC.
+- Salva em .pbm, em pasta com todos os arquivos ou como projeto do **REAPER (.RPP)**.
+- Letras e vídeos para telões em outro monitor (com vídeo matriz e cronômetro do show), partituras em PDF com página sincronizada, controle pela rede (celular/tablet), MIDI, timecode LTC/MTC.
 
 ## Apoie o projeto
 
